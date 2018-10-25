@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Duong Quang Tung
+                    "Duong Quang Tung"
                 </div>
 
                 <div class="links">
